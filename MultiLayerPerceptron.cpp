@@ -1,5 +1,5 @@
 //
-// Created by erwan on 02/06/2023.
+// Created by erwan boumedine on 02/06/2023.
 //
 
 #include "MultiLayerPerceptron.h"
