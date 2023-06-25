@@ -11,9 +11,3 @@
 !PAClient/Assets/*
 
 # Ne pas ignorer le dossier ClionStuff
-!PAClient/ClionStuff/
-
-# Ignorer tout dans ClionStuff sauf .cpp et .h
-PAClient/ClionStuff/*
-!PAClient/ClionStuff/*.cpp
-!PAClient/ClionStuff/*.h
